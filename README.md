@@ -13,10 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdithyanNair24.AdithyanNair24&"  />
-</div>
-
 ###
 
 <h1 align="center">Turning curiosity into code and projects!</h1>
